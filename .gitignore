@@ -15,3 +15,9 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+allure-results/
+generate_allure_report.sh
+src/test/resources/META-INF/
+src/main/resources/
+execution-summary/
+extent-reports/
