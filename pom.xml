@@ -11,7 +11,7 @@
     <properties>
         <!-- Make sure you point to the latest release version: https://github.com/ShaftHQ/SHAFT_ENGINE/releases -->
         <shaft_engine.version>10.1.20260319</shaft_engine.version>
-        <aspectjweaver.version>1.9.21</aspectjweaver.version>
+        <aspectjweaver.version>1.9.25.1</aspectjweaver.version>
         <maven-compiler-plugin.version>3.12.1</maven-compiler-plugin.version>
         <maven-resources-plugin.version>3.5.0</maven-resources-plugin.version>
         <surefire-testng.version>3.5.5</surefire-testng.version>
